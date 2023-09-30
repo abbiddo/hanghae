@@ -25,7 +25,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://abbiddo.github.io/hanghae/",
+  "homepage": "https://abbiddo.github.io/hangman/",
   "eslintConfig": {
     "extends": [
       "react-app",

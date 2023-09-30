@@ -7,7 +7,7 @@ import man5 from '../img/hang5.png';
 import man6 from '../img/hang6.png';
 import man7 from '../img/hang7.png';
 import man8 from '../img/hang8.png';
-import manFail from '../img/hang-fail.png';
+import fail from '../img/fail.png';
 import './Hangmans.css'
 
 import {
@@ -17,7 +17,7 @@ import {
 } from "reactstrap";
 
 // 이미지 배열
-const imgList = [man1, man2, man3, man4, man5, man6, man7, man8, manFail];
+const imgList = [man1, man2, man3, man4, man5, man6, man7, man8, fail];
 
 // 단어 딕셔너리
 const wordDictionary = {
